@@ -22,6 +22,8 @@ int main(){
     printf("Byte Array : ");
     printf("%s\r\n",bit);
 
+    //This is new fork
+
     printf("Stuffed Array: ");
     printf("%s\r\n",stuff);
 
